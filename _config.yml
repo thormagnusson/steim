@@ -1,0 +1,36 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.sonicwriting.org
+title: Musical Organics
+#email: can be found here: http://www.sussex.ac.uk/profiles/164902
+author: Thor Magnusson
+description: "A Symposium for Instrument makers, Composers and Performers"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+#  - title: website
+#    url: https://www.sonicwriting.org
+
+#  - title: twitter
+#    url: https://twitter.com/thormagnusson
+ ## - title: facebook
+ #   url: https://www.facebook.com/thorlmagnusson
+# ----------------------- #
+#     - title: github
+#    url: https://github.com/thormagnusson/liveinterfaces
+# ----------------------- #
+
+
